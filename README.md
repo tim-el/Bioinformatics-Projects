@@ -6,9 +6,9 @@ File development was guided by UCSC professors, the Rosalind Bioinformatics Plat
 ### Contents:
 
 #### Rosalind:
-- ViterbiLearning.ipnyb
-- BaumWelchHMM.ipnyb
-- 
+- ViterbiLearning.ipnyb: HMM Implementation utilizing Viterbi Learning
+- BaumWelchHMM.ipnyb: HMM Implementation utilizing Baum-Welch Learning
+- DAG.ipnyb: Finding the longest path between two nodes in an edge-weighted Directed Acyclic Graph
 #### UCSC Coursework:
 
 #### Personal Tools:
