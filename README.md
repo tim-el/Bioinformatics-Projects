@@ -11,4 +11,5 @@ File development was guided by UCSC professors, the Rosalind Bioinformatics Plat
 - DAG.ipnyb: Finding the longest path between two nodes in an edge-weighted Directed Acyclic Graph
 #### UCSC Coursework:
 - LotkaVolterra.ipnyb: Stochastic Modeling of Lotka-Volterra Interactions
+- PBWT.py: Implementing Efficient Haplotype matching using the Positional Burrows-Wheeler Transform
 #### Personal Tools:
