@@ -1,7 +1,7 @@
 # Bioinformatics-Projects
 
 ## This Repo contains examples of advanced Bioinformatics code developed during my time at UCSC, in Jupyter notebook format.
-File development was guided by UCSC professors, the Rosalind Bioinformatics Platform, and my personal tool development
+File development was guided by UCSC professors and the Rosalind Bioinformatics Platform
 
 ### Contents:
 
@@ -14,4 +14,3 @@ File development was guided by UCSC professors, the Rosalind Bioinformatics Plat
 - PBWT.py: Implementing Efficient Haplotype matching using the Positional Burrows-Wheeler Transform
 - Neural_Net_Classifier: Training a neural network to identify the tissue type that produced an RNA expression vector
 - Needleman-Wunsch: Implement the Needleman-Wunsch algorithm to compute the optimal alignment for a pair of sequences
-#### Personal Tools:
