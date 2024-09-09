@@ -10,5 +10,5 @@ File development was guided by UCSC professors, the Rosalind Bioinformatics Plat
 - BaumWelchHMM.ipnyb: HMM Implementation utilizing Baum-Welch Learning
 - DAG.ipnyb: Finding the longest path between two nodes in an edge-weighted Directed Acyclic Graph
 #### UCSC Coursework:
-
+- LotkaVolterra.ipnyb: Stochastic Modeling of Lotka-Volterra Interactions
 #### Personal Tools:
