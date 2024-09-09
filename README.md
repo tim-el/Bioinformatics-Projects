@@ -12,4 +12,5 @@ File development was guided by UCSC professors, the Rosalind Bioinformatics Plat
 #### UCSC Coursework:
 - LotkaVolterra.ipnyb: Stochastic Modeling of Lotka-Volterra Interactions
 - PBWT.py: Implementing Efficient Haplotype matching using the Positional Burrows-Wheeler Transform
+- Neural_Net_Classifier: Training a neural network to identify the tissue type that produced an RNA expression vector
 #### Personal Tools:
