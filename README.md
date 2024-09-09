@@ -13,4 +13,5 @@ File development was guided by UCSC professors, the Rosalind Bioinformatics Plat
 - LotkaVolterra.ipnyb: Stochastic Modeling of Lotka-Volterra Interactions
 - PBWT.py: Implementing Efficient Haplotype matching using the Positional Burrows-Wheeler Transform
 - Neural_Net_Classifier: Training a neural network to identify the tissue type that produced an RNA expression vector
+- Needleman-Wunsch: Implement the Needleman-Wunsch algorithm to compute the optimal alignment for a pair of sequences
 #### Personal Tools:
